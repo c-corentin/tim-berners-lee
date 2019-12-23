@@ -24,6 +24,11 @@ section {
     border: 1px solid #EBEBEB;
 }
 
+#berners a {
+    color: rgb(190, 190, 190);
+    text-decoration: none;
+}
+
 #lee p {
     text-align: justify;
 }
@@ -51,7 +56,7 @@ h1 {
 
 section ul li {
     display: inline-flex;
-    margin: 0 15px;
+    margin: 0 40px;
     flex-flow: column;
 }
 
@@ -90,4 +95,5 @@ article {
 .fa {
     font-size: 30px;
     margin: 0 0 10 0;
+    color: rgb(190, 190, 190);
 }
